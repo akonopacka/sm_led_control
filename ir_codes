@@ -1,0 +1,31 @@
+// IR remote map - BUTTON_X_Y from top left
+#define BUTTON_BRIGHTNESS_UP 0x8503705D //brightness up
+#define BUTTON_BRIGHTNESS_DOWN 0xDEB0C861 //brightness down
+#define BUTTON_OFF 0xD4DD0381 //OFF
+#define BUTTON_ON 0xCE1972FD //ON
+
+#define BUTTON_1_0 0xE85952E1 //red
+#define BUTTON_1_1 0x78CDA4DD //green
+#define BUTTON_1_2 0xA2672345 //blue
+#define BUTTON_1_3 0x9BA392C1 //white
+
+#define BUTTON_2_0 0xD3FD9A81 //
+#define BUTTON_2_1 0x6471EC7D //
+#define BUTTON_2_2 0x9D52009D //
+#define BUTTON_FLASH 0xDCC45BE1
+
+
+#define BUTTON_3_0 0x84044BBD //
+#define BUTTON_3_1 0x14789DB9 //
+#define BUTTON_3_2 0x3E121C21 //
+#define BUTTON_STROBE 0x374E8B9D //STROBE
+
+#define BUTTON_4_0 0xB0F9B3E1
+#define BUTTON_4_1 0x416E05DD
+#define BUTTON_4_2 0x6A844445
+#define BUTTON_FADE 0xB9C07541// FADE
+
+#define BUTTON_5_0 0x9DE75E1D
+#define BUTTON_5_1 0xF794B621
+#define BUTTON_5_2 0x57F52E81
+#define BUTTON_SMOOTH 0xA7315F7D //SMOOTH
